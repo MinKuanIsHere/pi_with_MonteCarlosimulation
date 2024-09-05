@@ -11,8 +11,6 @@
 
 To complete the task, we'll write a C program that uses the Monte Carlo method to estimate the value of π, create a Makefile to compile the program, and ensure everything works according to the requirements.
 
-### Writing the `pi.c` Program
-
 Below is the C code that uses the Monte Carlo method to estimate π:
 
 #### `pi.c`
